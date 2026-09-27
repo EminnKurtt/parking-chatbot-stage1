@@ -3,6 +3,6 @@ __pycache__
 .env
 venv
 env
-.db
-.faiss
+*.db
+*.faiss
 .pytest_cache
